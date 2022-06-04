@@ -255,6 +255,21 @@ p {
       margin-left: -100px;
  }
 
+ /* footer */
+ .footer {
+     width: 100%;
+     min-height: 100%;
+     padding: 20px 80px;
+     margin: 0;
+     background: #484872;
+     text-align: center;
+ }
+
+ .footer p {
+     color: #fff;
+     margin: 20px auto;
+     padding: 20px auto;
+ }
 
 /* mobile devices */
 @media only screen and (max-width:850px){
